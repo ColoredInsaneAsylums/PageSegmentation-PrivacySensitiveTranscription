@@ -1,0 +1,7 @@
+#!/bin/bash`
+
+# please use absolte paths
+MAKE_DIR=<Make directory path>
+IMAGE_DIR=<image folder--png files>
+CONFIG=<config file location>
+OUT_DIR=<output directory>
